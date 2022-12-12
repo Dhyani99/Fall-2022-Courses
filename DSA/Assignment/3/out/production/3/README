@@ -1,0 +1,8 @@
+#How to Execute Assignment-3
+
+
+Run the following commands in the same directory as the HeapSortClass.java in the same order.
+```console
+javac HeapSortClass.java
+java HeapSortClass
+```
